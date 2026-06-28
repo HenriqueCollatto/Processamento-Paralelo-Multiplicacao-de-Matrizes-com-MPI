@@ -11,7 +11,7 @@ import (
 
 // *******************************
 
-const MATRIX_SIZE  = 500;
+const MATRIX_SIZE  = 5000;
 const SIZE  	   = MATRIX_SIZE * MATRIX_SIZE;
 const MASTER       = 0;
 const SEED		   = 42;
